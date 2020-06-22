@@ -27,7 +27,7 @@ var openIt = function(e, lnk) {
 function createWindow() {
   // Create the browser window.
   mainWindow = new BrowserWindow({
-    title: "awesome",
+    title: "abhiplayer",
     width: 860,
     height: 470,
     minWidth: 600,
