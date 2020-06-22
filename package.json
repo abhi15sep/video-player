@@ -43,8 +43,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Abhay",
   "devDependencies": {
     "electron": "~1.8.2",
     "electron-builder": "^20.5.1"
