@@ -45,7 +45,7 @@
   ],
   "author": "Abhay",
   "devDependencies": {
-    "electron": "~1.8.2",
+    "electron": "~13.6.6",
     "electron-builder": "^20.5.1"
   },
   "dependencies": {
