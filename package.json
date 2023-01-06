@@ -46,7 +46,7 @@
   "author": "Abhay",
   "devDependencies": {
     "electron": "~1.8.2",
-    "electron-builder": "^20.5.1"
+    "electron-builder": "^20.44.4"
   },
   "dependencies": {
     "blob-to-buffer": "^1.2.7",
